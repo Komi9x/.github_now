@@ -8,4 +8,4 @@ jobs:
   handle-api:
     runs-on: ubuntu-latest
     steps:
-      -run: echo "ansible folder changed!"
+      - run: echo "ansible folder changed!"
